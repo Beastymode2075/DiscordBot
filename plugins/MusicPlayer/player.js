@@ -1,4 +1,4 @@
-const YoutubeDL = require('youtube-dl');
+const YoutubeDL = null; //require('youtube-dl');
 const Discord = require('discord.js');
 const DiscordVoice = require('@discordjs/voice');
 const MemoryStream = require('memorystream');
